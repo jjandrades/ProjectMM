@@ -1,0 +1,19 @@
+ul {
+  font-size: 14px;
+  color: red; }
+
+ol {
+  font-size: 18px;
+  color:blueviolet; }
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse; }
+
+th, td {
+  border: 1px solid black; }
+
+th {
+  background-color: burlywood; }
+
+/*# sourceMappingURL=Stilo2.css.map */
