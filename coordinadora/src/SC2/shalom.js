@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 2 Juana de Ruiz/Shalom,-Bethel-SC 2.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 2 Juana de Ruiz/Shalom - San Cristobal 2 - Betel.pdf");
    
     else window.location.replace("error.html");
 

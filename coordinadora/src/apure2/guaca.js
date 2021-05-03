@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Apure 2 Laura de Caceres/Hijas de Dios, Guacas - Apure 2.pdf");
+if (pos >=0) window.location.replace("imagen/Apure 2 Laura de Caceres/Hijas de Dios - Guacas - Apure 2.pdf");
    
     else window.location.replace("error.html");
 

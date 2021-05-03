@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 5 Angeris de Sanchez/Siloh, Tachira 5.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 5 Angeris de Sanchez/Grupo Siloh integrado - Tachira 5 - Grupo Enmanuel - Siloh.pdf");
    
     else window.location.replace("error.html");
 

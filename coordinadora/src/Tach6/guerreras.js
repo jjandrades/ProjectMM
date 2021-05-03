@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 6 Nurys de Yendez/Guerreras al Servicio del Señor - La Esperanza -Tachira 6.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 6 Nurys de Yendez/Guerreras al Servicio de Dios - Tachira 6 - La Esperanza.pdf");
    
     else window.location.replace("error.html");
 

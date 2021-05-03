@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 2 Juana de Ruiz/23 de Enero, Semillas de Esperanza - SC 2.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 2 Juana de Ruiz/Semillas de Esperanza - San Cristobal 2 - 23 de enero.pdf");
    
     else window.location.replace("error.html");
 

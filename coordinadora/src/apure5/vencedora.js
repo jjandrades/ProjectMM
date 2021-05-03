@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Apure 5 Lisbeth de Ojedas/Vencedoras en Cristo, La Aurora - Apure Sur 5.pdf");
+if (pos >=0) window.location.replace("imagen/Apure 5 Lisbeth de Ojedas/Vencedoras en Cristo - Apure 5 - La Aurora.pdf");
    
     else window.location.replace("error.html");
 

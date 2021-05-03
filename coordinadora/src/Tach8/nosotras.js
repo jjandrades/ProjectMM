@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 8 Elizabeth de Bonilla/Entre nosotras - G. Tucape- Tachira 8.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 8 Elizabeth de Bonilla/Entre Nosotras - Tachira 8 - Tucape.pdf");
    
     else window.location.replace("error.html");
 

@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/Damas para Cristo, Capacho - SC 4.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/Damas para Cristo - San Cristobal 4 - Horeb Capacho.pdf");
    
     else window.location.replace("error.html");
 

@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 2 Juana de Ruiz/La Concordia, Llenas de Espiritus - SC 2.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 2 Juana de Ruiz/Damas llenas de Espiritus - San Cristobal 2 - La Concordia.pdf");
    
     else window.location.replace("error.html");
 

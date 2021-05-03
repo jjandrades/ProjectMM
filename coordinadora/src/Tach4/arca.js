@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 4 Monica de la Rans/Mensajeras del Señor, El arca del pacto - Tachira 4.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 4 Monica de la Rans/Mensajeras del Señor - Tachira 4 - Arca del Pacto.pdf");
    
     else window.location.replace("error.html");
 

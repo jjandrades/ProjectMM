@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 6 Nurys de Yendez/Adonai, El Pilñal - Tachira 6.pdf");
+if (pos >=0) window.location.replace("imagen/Adonai - Tachira 6 - Central el Pinal.pdf");
    
     else window.location.replace("error.html");
 

@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Apure 6 Loreidy de Pitre/Mujeres Virtuosa, Nueva Horizonte - Apure 6.pdf");
+if (pos >=0) window.location.replace("imagen/Apure 6 Loreidy de Pitre/Mujeres Virtuosas - Apure 6 - Nuevo Horizonte.pdf");
    
     else window.location.replace("error.html");
 

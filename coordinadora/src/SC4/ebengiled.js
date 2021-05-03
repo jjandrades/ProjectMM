@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/Ebengiled, Ebeneza Sta. Elena - SC4.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/Ebengiled - San Cristobal 4 - Santa Elena.pdf");
    
     else window.location.replace("error.html");
 

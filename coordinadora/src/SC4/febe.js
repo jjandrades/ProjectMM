@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/FEBE, El Valle Sinai  SC 4.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/Febe - San Cristobal 4 - Sinai el Valle.pdf");
    
     else window.location.replace("error.html");
 

@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 3 Andrea de Barraza/Embajadoras del Reino, Cananan Palo Gordo - SC 3.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 3 Andrea de Barraza/Embajadoras del Reino - San Crsitobal 3 - Palo Gordo.pdf");
    
     else window.location.replace("error.html");
 

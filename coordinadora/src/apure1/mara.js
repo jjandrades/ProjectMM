@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Apure 1 Sirlenys de Bello/Guerreras de Marasinath, Marasinath - Apure Sur 1.pdf");
+if (pos >=0) window.location.replace("imagen/Apure 1 Sirlenys de Bello/Guerreras de Marasinath - Apure 1.pdf");
    
     else window.location.replace("error.html");
 

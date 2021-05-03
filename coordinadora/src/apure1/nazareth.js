@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Apure 1 Sirlenys de Bello/Nazareth - Grupo las Colina - Apure 1.pdf");
+if (pos >=0) window.location.replace("imagen/Apure 1 Sirlenys de Bello/Nazareth - Apure 1 - Colinas.pdf");
    
     else window.location.replace("error.html");
 

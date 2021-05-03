@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 4 Monica de la Rans/Guerreras en la Fe - El Paraiso la Grita - Tachira 4.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 4 Monica de la Rans/Guerreras en la Fe - Tachira 4 - Paraiso la Grita.pdf");
    
     else window.location.replace("error.html");
 

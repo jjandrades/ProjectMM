@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 10 Kenny de Martinez/Escogidas por Dios, Filadelfia - Tachira 10.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 10 Kenny de Martinez/Escogidas por Dios - Tachira 10 - Filadelfia.pdf");
    
     else window.location.replace("error.html");
 

@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 7 Ana Maria de Plaza/Amigas de Oración Mi pequeña Barina - Tachira 7.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 7 Ana Maria de Plaza/Hijas del Rey- Tachira 7 - Elifeleth”, Mi Pequeña.pdf");
    
     else window.location.replace("error.html");
 
