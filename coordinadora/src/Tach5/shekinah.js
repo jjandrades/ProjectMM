@@ -8,7 +8,7 @@ for(ind=0; ind<lista.length; ind++)
 pos = (ind < lista.length)? ind : -1; return (pos);
 }
 
-var lista1 = new Array('s5q45u');
+var lista1 = new Array('s8k23n1');
 var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);

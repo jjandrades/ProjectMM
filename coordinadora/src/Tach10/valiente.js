@@ -8,12 +8,12 @@ for(ind=0; ind<lista.length; ind++)
 pos = (ind < lista.length)? ind : -1; return (pos);
 }
 
-var lista1 = new Array('a9j35r2');
+var lista1 = new Array('v28a4t5');
 var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Tachira 5 Angeris de Sanchez/Amigas de Jesus - Tachira 5 - Grupo Enmanuel - Canaan.pdf");
+if (pos >=0) window.location.replace("imagen/Tachira 10 Kenny de Martinez/Valiente y Esforzada - Tachira 10 - Pregonero.pdf");
    
     else window.location.replace("error.html");
 
