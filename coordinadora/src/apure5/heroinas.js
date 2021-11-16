@@ -8,12 +8,12 @@ for(ind=0; ind<lista.length; ind++)
 pos = (ind < lista.length)? ind : -1; return (pos);
 }
 
-var lista1 = new Array('e6d3n2');
+var lista1 = new Array('h5r2f');
 var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Apure 5 Lisbeth de Ojedas/Heroinas de la Fe - Apure 5 - Elorza.pdf");
+if (pos >=0) window.location.replace("imagen/Apure 5/Heroinas de la Fe - Apure 5 - Elorza.pdf");
    
     else window.location.replace("error.html");
 

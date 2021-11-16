@@ -8,12 +8,12 @@ for(ind=0; ind<lista.length; ind++)
 pos = (ind < lista.length)? ind : -1; return (pos);
 }
 
-var lista1 = new Array('e3t6a7');
+var lista1 = new Array('je1t6a4');
 var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 2 Juana de Ruiz/Estrellas de Judá - San Cristobal 2 - Betel.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 2/Estrellas de Judá - San Cristobal 2 - Betel.pdf");
    
     else window.location.replace("error.html");
 

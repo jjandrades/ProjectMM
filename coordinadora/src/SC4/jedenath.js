@@ -8,12 +8,12 @@ for(ind=0; ind<lista.length; ind++)
 pos = (ind < lista.length)? ind : -1; return (pos);
 }
 
-var lista1 = new Array('j8dx64');
+var lista1 = new Array('d9g21');
 var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/Jedenath - San Cristobal 4 - Genezareth.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 4/Jedenath - San Cristobal 4 - Genezareth.pdf");
    
     else window.location.replace("error.html");
 

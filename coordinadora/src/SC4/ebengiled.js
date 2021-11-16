@@ -8,12 +8,12 @@ for(ind=0; ind<lista.length; ind++)
 pos = (ind < lista.length)? ind : -1; return (pos);
 }
 
-var lista1 = new Array('e34n6b3');
+var lista1 = new Array('b14gb3');
 var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/San Cristobal 4 Mailyn de Camacho/Ebengiled - San Cristobal 4 - Santa Elena.pdf");
+if (pos >=0) window.location.replace("imagen/San Cristobal 4/Ebengiled - San Cristobal 4 - Santa Elena.pdf");
    
     else window.location.replace("error.html");
 
