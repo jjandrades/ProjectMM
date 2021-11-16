@@ -13,7 +13,7 @@ var cadena = prompt("Introduce el codigo");
 var cad = cadena.toLowerCase();
 var pos = buscarItem(lista1, cad);
 
-if (pos >=0) window.location.replace("imagen/Apure 2/Mujeres en virtud - Apure 2 - Los Lirios.pdf");
+if (pos >=0) window.location.replace("imagen/Apure 2/Misioneras de Fe - Apure 2 - La Hermosa.pdf");
    
     else window.location.replace("error.html");
 
